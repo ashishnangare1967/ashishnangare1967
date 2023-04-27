@@ -1,3 +1,8 @@
+![logo](https://indoanalytica.com/static/images/bannerr.gif)
+<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&center=true&width=500&lines=A+Passionate+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+</h3>
 # 💫 About Me:
 🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://ashishnangare1967.github.io/<br><br>📫 How to reach me ashishnangare1967@gmail.com
 
