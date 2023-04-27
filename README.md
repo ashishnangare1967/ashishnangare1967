@@ -1,3 +1,7 @@
+<img src="https://imgs.search.brave.com/KeQgwl_O-CLzNs9uLw65vmeFnnRCcoG2wGeZz9PUWc4/rs:fit:1200:250:1/g:ce/aHR0cHM6Ly90aHVt/YnMuZ2Z5Y2F0LmNv/bS9CZXR0ZXJIYW5k/bWFkZUd1bGwtc2l6/ZV9yZXN0cmljdGVk/LmdpZg.gif" alt="">
+<h1 align="center">Hi 👋, I'm Sarthak Ahuja</h1>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://ashishnangare1967.github.io/<br><br>📫 How to reach me ashishnangare1967@gmail.com
 
