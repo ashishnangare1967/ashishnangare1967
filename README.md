@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&center=true&width=500&lines=A+Passionate+Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </h3>
 # 💫 About Me:
-🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://ashishnangare1967.github.io/<br><br>📫 How to reach me ashishnangare1967@gmail.com
+🌱 I’m currently Full Stack Developer<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://ashishnangare1967.github.io/<br><br>📫 How to reach me ashishnangare1967@gmail.com
 
 
 ## 🌐 Socials:
